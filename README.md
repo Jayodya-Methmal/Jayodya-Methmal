@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on next.js project sharing application<br>🌱 I’m currently learning advanced ethical hacking <br>🎯 Goal-Oriented Mindset<br>💡 Passion for Continuous Growth
+🔭 I’m currently working on NEXT JS application<br>🌱 I’m currently learning advanced ethical hacking <br>🎯 Goal-Oriented Mindset<br>💡 Passion for Continuous Growth
 
 
 ## 🌐 Socials:
