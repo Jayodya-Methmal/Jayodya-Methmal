@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Jayodya Methmal | [Visit My Website](https://jayodya-methmal.netlify.app/)
+# Hi there! 👋 | [Visit My Website](https://jayodya-methmal.netlify.app/)
 🔭 I’m currently working on NEXT JS project showcase application<br>🌱 I’m currently learning Advanced Ethical Hacking <br>🎯 Goal-Oriented Mindset<br>💡 Passion for Continuous Growth
 
 ## 🌐 Socials:
