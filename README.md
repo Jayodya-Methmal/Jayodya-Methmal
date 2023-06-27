@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Jayodya Methmal | [Visit My Website](https://jayodya-methmal.netlify.app/)
-🔭 I’m currently working on NEXT JS application<br>🌱 I’m currently learning Advanced Ethical Hacking <br>🎯 Goal-Oriented Mindset<br>💡 Passion for Continuous Growth
+🔭 I’m currently working on NEXT JS project showcase application<br>🌱 I’m currently learning Advanced Ethical Hacking <br>🎯 Goal-Oriented Mindset<br>💡 Passion for Continuous Growth
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jayodya-methmal-98843a154/) 
