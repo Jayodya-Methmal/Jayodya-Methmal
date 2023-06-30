@@ -1,7 +1,7 @@
 # Hi there! 👋 | [Visit My Website](https://jayodya-methmal.netlify.app/)
 🔭 I’m currently working on NEXT JS server side rendering project showcase application<br>🌱 I’m currently learning Advanced Ethical Hacking <br>🎯 Goal-Oriented Mindset<br>💡 Passion for Continuous Growth
 ### Intellectum Vigilare PenTestKit | [View](https://github.com/stars/Jayodya-Methmal/lists/intellectum-vigilare-pentestkit)
-"Intellectum Vigilare" is a collection of comprehensive threat intelligence repositories that includes a curated list of GitHub repositories for easy access.
+Collection of comprehensive threat intelligence repositories that includes a curated list of GitHub repositories for easy access.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayodya-methmal-98843a154/) 
