@@ -1,6 +1,6 @@
 # Hi there! 👋 | [ [My Website] ](https://jayodya-methmal.netlify.app/)
 🔭 I’m currently working on FHE application<br>🌱 I’m currently focused on secuirty operations and learning Ethical Hacking <br>🎯 Goal-Oriented Mindset<br>💡 Passion for Continuous Growth
-## 👾 Security Tools:  [ [view] ](https://github.com/stars/Jayodya-Methmal/lists/intellectum-vigilare-pentestkit](https://github.com/stars/Jayodya-Methmal/lists/intellectum-vigilare)
+## 👾 Security Tools:  [ [view] ](https://github.com/stars/Jayodya-Methmal/lists/intellectum-vigilare-pentestkit](https://github.com/stars/Jayodya-Methmal/lists/intellectum-vigilare/)
 A curated list of essential cybersecurity tools handpicked by industry experts.  This toolbox equips professionals with a comprehensive set of tools for vulnerability assessment, network analysis, password cracking, and more. 
 
 ## 🌐 Socials:
