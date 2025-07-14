@@ -3,6 +3,9 @@
 ## 👾 Security Tools:  [ [view] ](https://github.com/stars/Jayodya-Methmal/lists/intellectum-vigilare/)
 A curated list of essential cybersecurity tools handpicked by industry experts.  This toolbox equips professionals with a comprehensive set of tools for vulnerability assessment, network analysis, password cracking, and more. 
 
+## 👾 TryHackMe Stats:
+[![TryHackMe Stats](https://tryhackme-badges.s3.amazonaws.com/J4y0m3th.png)](https://tryhackme.com/p/J4y0m3th)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayodya-methmal-98843a154/) 
 
